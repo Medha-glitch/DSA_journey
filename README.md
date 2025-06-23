@@ -5,7 +5,8 @@ Welcome! This repository is a personal log of my journey through solving **LeetC
 📌 **Goal**: Strengthen my problem-solving and data structure skills in preparation for software engineering internships.
 
 📅 **Started on**: June 2025  
-🔄 **Currently Solving**: [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+🔄 **Currently Solving**: [Remove Element](https://leetcode.com/problems/remove-element/)
+
 
 ---
 
