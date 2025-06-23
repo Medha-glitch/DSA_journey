@@ -13,8 +13,8 @@ Welcome! This repository is a personal log of my journey through solving **LeetC
 
 | Topic      | Problems Solved |
 |------------|------------------|
-| Arrays     | 3                |
-| Strings    | 1                |
+| Arrays     | 2                |
+| Strings    |                  |
 | ...        | more coming 🚀    |
 
 ---
